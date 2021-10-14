@@ -3,5 +3,5 @@ Fiz uma Tabuada para treinar um pouco o Javascript, e acabei gostando do resulta
 
 **Se você quiser ver com mais detalhes, deixei os dois arquivos disponiveis.**
 
-Linkedin : https://www.linkedin.com/in/rafael-ribeiro-855b54215/
+Linkedin : https://www.linkedin.com/in/rafael-ribeiro-855b54215/ <br>
 Behance : https://www.behance.net/zrafaelribeiro
